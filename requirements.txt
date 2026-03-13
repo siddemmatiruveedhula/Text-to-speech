@@ -1,0 +1,6 @@
+streamlit
+google-cloud-texttospeech
+pydub
+PyMuPDF
+python-docx
+ffmpeg-python
